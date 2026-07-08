@@ -1,5 +1,5 @@
 # 🚀 AWS Static Website Hosting using Amazon S3
-
+http://asleem-aws-project-2026.s3-website.ap-south-1.amazonaws.com/
 ## 📖 Overview
 This project demonstrates how to host a static website using Amazon S3.
 
